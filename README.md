@@ -1,4 +1,4 @@
-# my_smm_front
+# admin_ui
 
 > A Vue.js project
 
